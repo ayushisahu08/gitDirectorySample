@@ -1,0 +1,2 @@
+# gitDirectorySample
+gitDirectorySample
